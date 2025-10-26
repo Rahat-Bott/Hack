@@ -1,7 +1,7 @@
 <h1 align="center">
   <u>Camphish to WEBCAM</u>  
   <br>
-  <a href="https://youtu.be/vDfXsC7CU_I">🎥 Demo Video: Camphish.mp4</a>
+  <a href="">🎥 Demo Video: Camphish.mp4</a>
 </h1>
 
 ### [TERMUX] Install All Comments
@@ -45,13 +45,13 @@ pkg install -y git && git clone https://github.com/h2d-manyaa/webcam.git && cd w
 
 ## 📌 Contact Me  
 
-<a href="https://youtube.com/@zerodarknexus">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+<a href="">
+  <img src="" alt="YouTube">
 </a>  
 <br>  
 
-<a href="https://t.me/ZeroHackNexus">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+<a href="">
+  <img src="" alt="Telegram">
 </a>  
 <br>  
 
